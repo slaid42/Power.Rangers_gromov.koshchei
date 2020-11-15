@@ -65,3 +65,4 @@ class Manager():
     Handle all events
     """
     pass
+вдыиодвл
